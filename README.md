@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Pedrisbel</h1>
 
----
 
 ### 👨‍💻 About Me
 
@@ -19,8 +18,6 @@ software, and solving the little problems that inevitably appear along the way. 
 - 🌐 Interested in **mobile and web development**
 - 🤖 Exploring how **AI can improve the development workflow**
 - 📚 Always learning and experimenting with new ideas
-
----
 
 ## ⚡ Tech Stack
 
@@ -62,7 +59,7 @@ software, and solving the little problems that inevitably appear along the way. 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-### Find me
+## Find me
 
 <p align="center">
   <a href="mailto:pedrisbellorenzo@gmail.com">
