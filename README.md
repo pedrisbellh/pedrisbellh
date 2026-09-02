@@ -61,7 +61,7 @@ software, and solving the little problems that inevitably appear along the way. 
 
 ## Find me
 
-<p align="center">
+<p>
   <a href="mailto:pedrisbellorenzo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
