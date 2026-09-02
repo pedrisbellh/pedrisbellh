@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Pedrisbel</h1>
+<h1>Hi there 👋 I'm Pedrisbel</h1>
 
 I'm a Computer Science Engineer and Flutter Developer based in Havana, Cuba.
 
