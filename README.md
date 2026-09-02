@@ -1,14 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Pedrisbel</h1>
 
-<p align="center">
-  <a href="mailto:pedrisbellorenzo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/pedrisbellh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
 
 ### 👨‍💻 About Me
 
@@ -68,5 +59,12 @@ process:
 - ☁️ **Firebase & Supabase** — Backend services and application integrations
 - 🚀 **GitHub Actions** — Automated testing and deployment workflows
 
-## I hope can help you in a project
+## I hope can help you in a project <p>
+  <a href="mailto:pedrisbellorenzo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/pedrisbellh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
