@@ -50,27 +50,36 @@ software, and solving the little problems that inevitably appear along the way. 
   <img src="https://skillicons.dev/icons?i=dart,flutter,js,html,css" alt="Languages and frameworks"/>
 </p>
 
-### Backend & Tools
+### Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,githubactions" alt="Backend and tools"/>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" alt="Backend"/>
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+### Architecture & Development
 
 <p>
   <img src="https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white" alt="BLoC"/>
   <img src="https://img.shields.io/badge/GoRouter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="GoRouter"/>
   <img src="https://img.shields.io/badge/Freezed-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Freezed"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Dependency_Injection-6C63FF?style=flat-square" alt="Dependency Injection"/>
 </p>
 
----
+### Tools & Workflow
 
-## 🌱 What I'm Into
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions" alt="Development tools"/>
+</p>
 
-```text
-📱 Flutter & Dart
-🏗️ Software Architecture
-🔥 Firebase & APIs
-🧪 Testing & Code Quality
-🌐 Cross-platform Development
-🤖 AI-assisted Development
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+
